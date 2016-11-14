@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+}
+
+.container {
+  width: 600px;
+  margin: 50px auto 0 auto;
+  text-align: center;
+}
+
+.container img {
+ width : 100%; 
+
+}
+
+body {
+  background-image: url("http://tropicalsailing.com/wp-content/uploads/2012/05/buy-tickets-background-big-bleached.gif")
+   
+}
+h1 {
+  font-family: 'Shrikhand', cursive;
+  margin-top: 20px;
+  font-size: 60px;
+  margin-bottom: 40px;
+ color:#d33630;
+ text-align: center;
+}
+
+input {
+  height: 50px;
+  width: 200px;
+  margin-right: 20px;
+  padding: 10px;
+  font-size: 20px;
+  object-position: center;
+}
+
+.form {
+  margin-bottom: 40px;
+}
+
+.answer-text {
+  font-family: 'Shrikhand', cursive;
+  margin-top: 20px;
+  font-size: 60px;
+  margin-bottom: 40px;
+ color:#d33630;
+ text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
